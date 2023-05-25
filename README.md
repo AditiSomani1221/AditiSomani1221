@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/b0621d07cea35d36f40304a746dc6c07e2ffd2ce9dc6c283b59b4697a8cd1039/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313833382f302a4647443642557a7a5a7331564a4c75592e676966)](https://github.com/AditiSomani1221)
+[![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://github.com/AditiSomani1221)
 <h1 align="center">Hi 👋, I'm Aditi Somani</h1>
 <h3 align="center">A passionate AI/ML Enthusiast from India</h3>
 <img align="right" alt="coding" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif">
