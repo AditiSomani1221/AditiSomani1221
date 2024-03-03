@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditisomani" alt="aditisomani" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://aditisomani1221.github.io/Portfolio-Website/](https://aditisomani1221.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at https://aditisomani.me/#portfolio (https://aditisomani.me/#portfolio)
 
 - 📫 How to reach me **aditisomani2002@gmail.com**
 
